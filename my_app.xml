@@ -1,0 +1,14 @@
+<ubd_app>
+  <settings>
+    <width>600</width>
+    <height>400</height>
+  </settings>
+  <input>
+    <type>int</type>
+    <name>int1</name>
+    <label>Int Input 1</label>
+    <default>47</default>
+    <x>60</x>
+    <y>30</y>
+  </input>
+</ubd_app>
